@@ -1,5 +1,4 @@
-  
-   ## I. Introduction 
+## I. Introduction 
   
  In this post, I bring together the elements necessary for getting a better understanding of the problem solutions provided in the 2019 paper by Fazel et al titled 
  [*"Global Convergence of Policy Gradient Method for Linearized Control Problems"*](https://arxiv.org/abs/1801.05039). I also provide the intuition behind the proof technique used in the
